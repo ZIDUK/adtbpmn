@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "Viewer_SubInicio.html",
-  "homepage": "https://ziduk.github.io/adtbpmn",
+  "homepage": "http://ziduk.github.io/adtbpmn",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
