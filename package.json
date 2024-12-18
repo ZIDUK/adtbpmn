@@ -6,7 +6,7 @@
   "homepage": "https://ziduk.github.io/adtbpmn",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "start": "parcel Viewer_SubInicio.html --open",
     "build": "parcel build Viewer_SubInicio.html"
   },
